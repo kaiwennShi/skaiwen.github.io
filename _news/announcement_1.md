@@ -5,4 +5,4 @@ inline: true
 ---
 
 Our paper [Investigating Generalization by Controlling Normalized Margin](https://arxiv.org/abs/2205.03940?context=cs) was accepted
-at ICML.
+at ICML

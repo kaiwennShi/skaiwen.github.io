@@ -18,7 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student at Caltech advised by [Professor Yisong Yue](http://www.yisongyue.com) and interested in neural network generalization and modeling complex behavior.
+I'm a PhD student at Caltech advised by Professor [Yisong Yue](http://www.yisongyue.com).  I graduated from Cornell University where I studied neuroscience and behavior and worked with Professor [Jesse Goldberg](https://sites.google.com/view/goldberg-lab/home?authuser=0) and then with Professor [Evan Feinberg](http://www.evanfeinberglab.com) at UCSF.  
+
+
+I'm interested in understanding when neural networks generalize and modeling complex behavior, especially with application to neuroscience. 
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
