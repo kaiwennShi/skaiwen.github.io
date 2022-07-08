@@ -79,7 +79,7 @@ stackoverflow_id: #your stackoverflow id
 # -----------------------------------------------------------------------------
 
 google_analytics: G-PW5TRGPGTC # your google-analytics ID (format: UA-XXXXXXXXX)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+panelbear_analytics: GOXz5rfo88p # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: ITqTJBkCNCru6palC7VJU9M_4wAPeyTkC1U5AIcSUFQ # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
