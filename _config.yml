@@ -81,8 +81,8 @@ stackoverflow_id: #your stackoverflow id
 google_analytics: G-PW5TRGPGTC # your google-analytics ID (format: UA-XXXXXXXXX)
 panelbear_analytics: GOXz5rfo88p # panelbear analytics site ID (format: XXXXXXXXX)
 
-# google_site_verification: ITqTJBkCNCru6palC7VJU9M_4wAPeyTkC1U5AIcSUFQ # your google-site-verification ID (Google Search Console)
-google_site_verification: e333hxM7_vurtlWMF11NO6VGCYQVCQBbEUPnTGxx5Kg #
+google_site_verification: ITqTJBkCNCru6palC7VJU9M_4wAPeyTkC1U5AIcSUFQ # your google-site-verification ID (Google Search Console)
+# google_site_verification: e333hxM7_vurtlWMF11NO6VGCYQVCQBbEUPnTGxx5Kg #
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -272,8 +272,8 @@ jekyll-diagrams:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:    true  # enables google analytics
-enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
+enable_panelbear_analytics: true  # enables panelbear analytics
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
