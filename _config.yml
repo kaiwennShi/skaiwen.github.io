@@ -4,7 +4,6 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Kaiwen
-middle_name: .
 last_name: Shi
 email: kaiwenss@umich.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -211,8 +210,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Farhang
-  first_name: [Alexander R., A. R.]
+  last_name: Shi
+  first_name: [Kaiwen]
 
   style: chicago-fullnote-bibliography #apa
   locale: en
