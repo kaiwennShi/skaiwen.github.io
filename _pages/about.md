@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an undergraduate student at University of Michigan. Currently, I'm advised by Professor Pierre Apostolides to understand sound representation, particularly the sound envelope and ultrasonic vocalization, in mice auditory midbrain. Before that, I worked in Professor Jiayi Zhang's lab to investigate the potentials of an artificial photoreceptor in restoring primary visual functions at Fudan University. 
+I'm an undergraduate student at University of Michigan. Currently, I'm advised by Professor Pierre Apostolides to understand sound representation in mice auditory midbrain. Before that, I worked in Professor Jiayi Zhang's lab to investigate the potentials of an artificial photoreceptor in restoring primary visual functions at Fudan University. 
 
 I'm broadly interested in how ethologically relevant sensory information is coded, and how the brain extract these information to drive behavior.
 
