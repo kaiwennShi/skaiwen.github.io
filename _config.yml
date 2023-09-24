@@ -7,7 +7,7 @@ first_name: Kaiwen
 last_name: Shi
 email: kaiwenss@umich.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student at Caltech.
+  Student at Umich
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -53,12 +53,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # alexfarhang # your GitHub user name
+github_username: # kaiwenShi # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # alex_farhang # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: 3fNgpaYAAAAJ&hl # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-5440-6442 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
